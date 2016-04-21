@@ -47,4 +47,3 @@ func Test_GetObjectJsonWithStack(t *testing.T) {
 	json = GetObjectJsonWithStack("u", u)
 	t.Log(json)
 }
-

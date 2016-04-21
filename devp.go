@@ -66,4 +66,3 @@ func getStackInfo() string {
 
 	return string(buf)
 }
-
